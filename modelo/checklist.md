@@ -2,7 +2,7 @@
 
 ### Slot 1 (Nome do responsável)
 - [ ] Encontrar palestrante
-- [ ] Salvar contatos do palestrante na planílha do evento (principalmente WhatsApp) - Isso vai nos ajudar a amnter contato com o palestrante...
+- [ ] Salvar contatos do palestrante na planílha do evento (principalmente WhatsApp) - Isso vai nos ajudar a manter contato com o palestrante...
 
 ######Contato com o palestrante antes do evento
 - [ ] Orientar para realizar a instalação do software de gravação da tela do palestrante.
@@ -18,7 +18,7 @@
 
 ### Slot 2 (Nome do responsável)
 - [ ] Encontrar palestrante
-- [ ] Salvar contatos do palestrante na planílha do evento (principalmente WhatsApp) - Isso vai nos ajudar a amnter contato com o palestrante...
+- [ ] Salvar contatos do palestrante na planílha do evento (principalmente WhatsApp) - Isso vai nos ajudar a manter contato com o palestrante...
 
 ######Contato com o palestrante antes do evento
 - [ ] Orientar para realizar a instalação do software de gravação da tela do palestrante.
@@ -34,7 +34,7 @@
 
 ### Slot 3 (Nome do responsável)
 - [ ] Encontrar palestrante
-- [ ] Salvar contatos do palestrante na planílha do evento (principalmente WhatsApp) - Isso vai nos ajudar a amnter contato com o palestrante...
+- [ ] Salvar contatos do palestrante na planílha do evento (principalmente WhatsApp) - Isso vai nos ajudar a manter contato com o palestrante...
 
 ######Contato com o palestrante antes do evento
 - [ ] Orientar para realizar a instalação do software de gravação da tela do palestrante.
@@ -50,7 +50,7 @@
 
 ### Slot 4 (Nome do responsável)
 - [ ] Encontrar palestrante
-- [ ] Salvar contatos do palestrante na planílha do evento (principalmente WhatsApp) - Isso vai nos ajudar a amnter contato com o palestrante...
+- [ ] Salvar contatos do palestrante na planílha do evento (principalmente WhatsApp) - Isso vai nos ajudar a manter contato com o palestrante...
 
 ######Contato com o palestrante antes do evento
 - [ ] Orientar para realizar a instalação do software de gravação da tela do palestrante.
