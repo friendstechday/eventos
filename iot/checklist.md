@@ -1,7 +1,7 @@
 # Palestras
 
-### Slot 1 (Nome do responsável)
-- [ ] Encontrar palestrante
+### Slot 1 (Felipe Mamud)
+- [x] Encontrar palestrante (Vinicius Senger)
 - [ ] Salvar contatos do palestrante na planílha do evento (principalmente WhatsApp) - Isso vai nos ajudar a manter contato com o palestrante...
 
 ######Contato com o palestrante antes do evento
@@ -16,8 +16,8 @@
 - [ ] Pegar apresentação para disponibilizar no site do FTD
 - [ ] Pegar contatos do palestrante (twitter, linkedin, facebook, etc) para marcar nas publicações do FTD!
 
-### Slot 2 (Nome do responsável)
-- [ ] Encontrar palestrante
+### Slot 2 (Yago Silva)
+- [x] Encontrar palestrante (Otávio Santana)
 - [ ] Salvar contatos do palestrante na planílha do evento (principalmente WhatsApp) - Isso vai nos ajudar a manter contato com o palestrante...
 
 ######Contato com o palestrante antes do evento
@@ -31,42 +31,9 @@
 - [ ] Verificar com o palestrante se o software de captura de tela da máquina foi instalado!
 - [ ] Pegar apresentação para disponibilizar no site do FTD
 - [ ] Pegar contatos do palestrante (twitter, linkedin, facebook, etc) para marcar nas publicações do FTD!
-
-### Slot 3 (Nome do responsável)
-- [ ] Encontrar palestrante
-- [ ] Salvar contatos do palestrante na planílha do evento (principalmente WhatsApp) - Isso vai nos ajudar a manter contato com o palestrante...
-
-######Contato com o palestrante antes do evento
-- [ ] Orientar para realizar a instalação do software de gravação da tela do palestrante.
-- [ ] Dados da máquina utilizada para a apresentação: SO, interfaces de audio e vídeo.
-- [ ] Dados da palestra (título, descrição, nível de dificuldade)
-- [ ] Minibio
-- [ ] Foto
-
-######Antes da palestra
-- [ ] Verificar com o palestrante se o software de captura de tela da máquina foi instalado!
-- [ ] Pegar apresentação para disponibilizar no site do FTD
-- [ ] Pegar contatos do palestrante (twitter, linkedin, facebook, etc) para marcar nas publicações do FTD!
-
-### Slot 4 (Nome do responsável)
-- [ ] Encontrar palestrante
-- [ ] Salvar contatos do palestrante na planílha do evento (principalmente WhatsApp) - Isso vai nos ajudar a manter contato com o palestrante...
-
-######Contato com o palestrante antes do evento
-- [ ] Orientar para realizar a instalação do software de gravação da tela do palestrante.
-- [ ] Dados da máquina utilizada para a apresentação: SO, interfaces de audio e vídeo.
-- [ ] Dados da palestra (título, descrição, nível de dificuldade)
-- [ ] Minibio
-- [ ] Foto
-
-######Antes da palestra
-- [ ] Verificar com o palestrante se o software de captura de tela da máquina foi instalado!
-- [ ] Pegar apresentação para disponibilizar no site do FTD
-- [ ] Pegar contatos do palestrante (twitter, linkedin, facebook, etc) para marcar nas publicações do FTD!
-
 
 # Infraestrutura (Nome do responsável)
-- [ ] Reservar um local para o evento
+- [x] Reservar um local para o evento
 - [ ] Adaptadores necessários (tomadas, saída de audio e vídeo).
 - [ ] Espaço para o coffe break
 
